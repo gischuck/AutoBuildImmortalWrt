@@ -53,6 +53,9 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
 # KMS
-#CUSTOM_PACKAGES="$CUSTOM_PACKAGES vlmcsd luci-app-vlmcsd"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES vlmcsd luci-app-vlmcsd"
 # DDNS-GO
-#CUSTOM_PACKAGES="$CUSTOM_PACKAGES ddns-go luci-app-ddns-go"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES ddns-go luci-app-ddns-go"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-zerotier-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-aria2-zh-cn"
+
