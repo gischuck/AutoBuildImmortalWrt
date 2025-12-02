@@ -58,4 +58,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES vlmcsd luci-app-vlmcsd"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES ddns-go luci-app-ddns-go"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-zerotier-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-aria2-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES kmod-fs-cifs cifsmount cifs-utils"
 
